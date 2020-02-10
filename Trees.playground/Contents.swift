@@ -107,6 +107,4 @@ beverages.add(cold)
 
 beverages.forEachLevelOrder {
     print($0.value)
-}
-
 
